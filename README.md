@@ -1,0 +1,3 @@
+# Credit-Risk-Modelling
+
+This project focuses on developing predictive models to assess the likelihood of loan defaults in a financial institution. By leveraging machine learning techniques such as Logistic Regression, Random Forest, and Gradient Boosting, the project aims to identify high-risk borrowers and minimize potential financial losses. The models are trained on historical loan data and evaluated based on accuracy, precision, recall, and other relevant metrics. This risk assessment tool will assist the institution in making informed lending decisions, optimizing their credit portfolio, and reducing default rates.
